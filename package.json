@@ -1,0 +1,28 @@
+{
+  "name": "learning-to-code",
+  "version": "1.0.0",
+  "description": "Assignment 1",
+  "main": "Assignment (1).js",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElCousin/learning-to-code.git"
+  },
+  "keywords": [
+    "assignment",
+    "node",
+    "maldeorin"
+  ],
+  "author": "Cousin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElCousin/learning-to-code/issues"
+  },
+  "homepage": "https://github.com/ElCousin/learning-to-code#readme"
+}
